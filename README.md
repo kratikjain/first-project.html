@@ -4,7 +4,7 @@ this is the demo file of html
 !<doctype html>
 <html>
 <head>
-<title>kittu</title>
+<title>Kratik Jain</title>
 </head>
 <body>
   <h1>Hello World</h1>
